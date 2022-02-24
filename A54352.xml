@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the several assaults and storms made by the King of Svveden upon Copenhaghen the chief residence of the King of Denmark Together with the whole proceedings and particulars on both sides.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54352</idno>
+            <idno type="STC">Wing P1517</idno>
+            <idno type="STC">ESTC R221437</idno>
+            <idno type="EEBO-CITATION">99832744</idno>
+            <idno type="PROQUEST">99832744</idno>
+            <idno type="VID">37218</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37218)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2150:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the several assaults and storms made by the King of Svveden upon Copenhaghen the chief residence of the King of Denmark Together with the whole proceedings and particulars on both sides.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1658. [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual publication date from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dano-Swedish Wars, 1657-1660 --  Early works to 1800.</term>
+               <term>Sweden --  History --  Charles X Gustavus, 1654-1660 --  Early works to 1800.</term>
+               <term>Denmark --  History --  Frederick III, 1648-1670 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37218:1"/>
+            <pb facs="tcp:37218:1" rendition="simple:additions"/>
+            <p>A PERFECT RELATION Of the ſeveral Aſſaults and Storms MADE BY The KING of <hi>SWEDEN</hi> UPON COPENHAGHEN The chief Reſidence of the KING of DENMARK <hi>TOGETHER</hi> With the whole Proceedings and Particulars on both ſides.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37218:2"/>
+            <pb n="1" facs="tcp:37218:2"/>
+            <head>A Perfect Relation, <hi>&amp;c.</hi>
+            </head>
+            <p>ON the 4th day of this preſent moneth of <hi>February,</hi> the Engliſh Reſident Mr. <hi>Iſaac Ewers,</hi> (who for ſome time ſince had been with the King of <hi>Sweden,</hi> and at his re<g ref="char:EOLhyphen"/>queſt, did return hither back again) was admitted in<g ref="char:EOLhyphen"/>to this City of <hi>Coppenhaghen,</hi> and on the next day had Audi<g ref="char:EOLhyphen"/>ence given him by his Majeſty the King of <hi>Denmark,</hi> unto whom he delivered certain Letters, written unto his ſaid Ma<g ref="char:EOLhyphen"/>jeſty by the preſent Lord Protector of the Commonwealth of <hi>England,</hi> &amp;c. ſaid Highneſs, and by his extraordinary Envoy Sr. <hi>Philip Meddows;</hi> the ſaid Reſidents Propoſitions as well as his Letters, purporting, <hi>a proffered Mediation by his ſaid High<g ref="char:EOLhyphen"/>neſs, towards the compaſsing of a particular Peace between theſe two Nothern Crowns.</hi>
+            </p>
+            <p>But by the hoſtile attempts which did immediately enſue, it evidently appeared, that the ſaid Propoſitions were only ſet on foot by the <hi>Swedes, thereby to amuſe the ſaid King of</hi> Den<g ref="char:EOLhyphen"/>mark, <hi>to lull him aſleep; as alſo to ſurprize this good City, and con<g ref="char:EOLhyphen"/>ſequenty after the taking of the ſame, by force to ſubdue the whole Kingdom, and to attain unto the abſolute Dominion, both by Sea and Land, to the great prejudice of the Aſſociated and Neighbouring Princes.</hi> All which is moſt manifeſtly apparent by the enſu<g ref="char:EOLhyphen"/>ing Actions and Attempts.</p>
+            <p>For on the 5th day of this preſent moneth, the ſaid Reſident made overture of his ſaid Propoſitions; though before any Anſwer could be thereon returned unto the ſaid Lord Prote<g ref="char:EOLhyphen"/>ctor, or unto any one elſe; and whenas his ſaid Majeſty the the King of <hi>Denmark</hi> had ſent a Trumpeter with particular Letters from ſome perſons in this City, unto their friends in the Countrey, and with Letters from the Lord Admirall <hi>Op<g ref="char:EOLhyphen"/>dam,</hi> to have paſſed with them through the Swediſh Camp; the King of <hi>Sweden</hi> would not permit the ſame, but only for that one time and no more, ſuffered the Lord <hi>Opdams</hi> Letter only to paſs; whereby it appears, that he ſought for an occaſion and an opportunity, during this hard froſt and theſe long nights, to continue his hoſtile acts, under a colour and pretence of a
+<pb n="2" facs="tcp:37218:3"/>proffered Peace, as the ſequell doth ſufficiently demonſtrate.</p>
+            <p>Seeing after the ſaid King of <hi>Sweden,</hi> had by the advice of a Court Martiall tranſported the main body of his Army into <hi>Zealand,</hi> out of <hi>Schonen</hi> and <hi>Punen,</hi> whether he had brought them againſt their wills, out of their own Countries, being <hi>Swedes, Laplanders, Finnlanders, Iriſh, Scotch, Engliſh, Dutch</hi> and <hi>Poles:</hi> He did, on the 8th day of this preſent moneth, give a charge in writing, unto the chief Field-Officers of his Army, to aſſault and ſtorm the City of <hi>Coppenhaghen,</hi> together with the Fortreſs of <hi>Chriſtians Haven,</hi> on all parts, in a hoſtile manner; whereof the King of <hi>Denmark</hi> was timely advertiſed on the ſelf ſame day, and ſome while before: Moreover the <hi>Swedes</hi> would gladly have put his ſaid bloodthirſty deſign in execu<g ref="char:EOLhyphen"/>tion (contrary to his ſaid proffered overtures of Peace) even before, if not at the very ſelf ſame time, whenas the ſaid Reſi<g ref="char:EOLhyphen"/>dent had but newly propounded it; had he not been impeaded therein by other accidents which hapned, and whereby he was conſtrained to defer it; wherof we had ſufficient knowledg.</p>
+            <p>For after the King of <hi>Sweden,</hi> had in the preceding day<g ref="char:EOLhyphen"/>time, made a ſhew of all his Forces he had in his Camp, and often drawn them forth in battell array, thereby to beget a fear in the Inhabitants of this City; and that we were for certain informed, that he would immediately make an aſ<g ref="char:EOLhyphen"/>ſault upon this place: He did put the ſame in execution a<g ref="char:EOLhyphen"/>bout midnight, between the eighth and nineth of <hi>February</hi> laſt; whenas the Enemy, it being then ſo dark, as that a man could not ſee the length of a half Piſtoll-ſhot from him; did, between twelve and one of the Clock in the night, haſtily advance by <hi>Calboch</hi> over the Ice, not farre diſtant from the <hi>Longang,</hi> or <hi>Line of Communication,</hi> and the <hi>Magazin</hi> or <hi>Ammunition Houſe;</hi> and made their firſt aſſault upon a Lighter, which was placed about three Msket ſhot from the <hi>Ammunition Houſe:</hi> and as the ſaid Lighter was but a ſmall one, mounted but with ſix Guns, half Braſs, half Iron ones, and defended but by a Captain, two Gunners, and ſome Mariners, whence they fired on the Enemy, yet they heed<g ref="char:EOLhyphen"/>ded that not at all: And as the Ice was not broke quite round the ſame, the Enemy entred her, kil'd one of the Mariners,
+<pb n="3" facs="tcp:37218:3"/>and took four Priſoners; whereupon the Captain thereof, re<g ref="char:EOLhyphen"/>tiring with the reſt of his men into the City, the Enemy fired the Hurts which were in the ſaid Lighter, which gave ſuch a reffection upon the Ice, as that the Enemy could be diſcerned marching in great Bodies towards this place; amongſt which our Canon inceſſantly playing, and (according to the rela<g ref="char:EOLhyphen"/>tion of ſome Priſoners and Fugatives) a Collonel of the E<g ref="char:EOLhyphen"/>nemies being ſhot a pieces, and ſeveral of their Bodies being thereby alſo broke and diſordered, the Enemy was forced to retire in a confuſed manner, carrying away their dead men with them, according to their uſuall Cuſtom. But whereas the Hutts, which were in the ſaid Lighter, did make a great flame, the other Troops; thought that a Houſe was fired in the City, for a ſign all that the Town was taken, and there<g ref="char:EOLhyphen"/>fore in great number haſtened thither; but meeting thoſe which were to have made the aſſault, returning back again with bloody Pates, they ſoon deſiſted in their deſign to pro<g ref="char:EOLhyphen"/>ceeed any further. About two of the Clock in the morning, our men regained the Lighter, quenched the fire, and brought the three Guns which were thrown out of her, on board a<g ref="char:EOLhyphen"/>gain, and fired therewith on the Enemy. In the morning tyde, there was found in the Ice, which had been kept open, a ſtrange kind of Bridge, which could be taken aſunder, and put together, with it's carriage mounted on eight Wheeles, which was brought into the Court-yard; as alſo ſeveral Shels and Granadoes, with crooked Hookes, and other War<g ref="char:EOLhyphen"/>like Inſtruments; divers Skulls and Jawes of dead men: And the ſame night, the King of <hi>Sweden,</hi> with his Cavalry, was gotten into the Iſle of <hi>Amach,</hi> hoping that thoſe Troops, which he had commanded over the Ice, would have forced their entrance into <hi>Chriſtians Haven,</hi> and ſo have facillitated his paſſage with his Horſe into the City: But his ſaid attempt, was for that time, by Gods aſiſtance, fruſtrated, and himſelf forced to retreat.</p>
+            <p>However, they deſiſted not, but the ſaid Enemy, did a<g ref="char:EOLhyphen"/>gain with his whole might and power, aſſault the City of <hi>Coppenhaghen,</hi> and the Fortreſs of <hi>Chriſtians Haven,</hi> in a ho<g ref="char:EOLhyphen"/>ſtile manner, betwixt the tenth and eleventh of this preſent
+<pb n="4" facs="tcp:37218:4"/>Moneth, about one of the Clock at night.</p>
+            <p>The firſt aſſault, was joyntly made at three ſeveral parts; From the <hi>Longang, or private Conveyance, which is ſituated be<g ref="char:EOLhyphen"/>hind the Kingly Pallace, and the Magazin or Ammunition Houſe, along the Ramparts, and the half Bulwark, or Baſtion, by the water-conveyance, especially upon the adjacent Ravelin, and the ſaid Line.</hi> Behind the <hi>Magazin</hi> or <hi>Amunition Houſe,</hi> there was placed a ſmall <hi>Daniſh Man of Warre,</hi> called <hi>Hoyen hal,</hi> mount<g ref="char:EOLhyphen"/>ed with a few Guns, and defended by not above ſixteen or eighteen men. In this Veſſell, and in this place, the <hi>Swedes</hi> diſcharged their greateſt fury, bringing alongſt with them ſome flat-bottom'd Boates, and Bridges, to lay over the Ice; But the ſaid Veſſell defended her ſelf ſtoutly, to the laſt man, and not regarding the ſmall number ſhe had on Board, bore off three ſeveral aſſaults, untill there remained but ſix of her company alive; inſomuch as thoſe which ſurvived, did not only keep off the Enemy, by their continual playing upon them, but did good execution upon the ſeveral Bodies of their Troops, which advanced over the Ice from <hi>Calleboc,</hi> to<g ref="char:EOLhyphen"/>wards the ſaid Stations, which they were ordered to aſſault, and very much endamaged their main Battalion which was drawn up there. Finally, they ſlew one Major <hi>Smith,</hi> who was gotten on board of her, and forced the reſt to quit the Veſſell again. There were found eleven dead Bodies of the Enemies, upon the Decks of the ſaid Ship, which had ſo wounded the Captain, beſides thoſe which were drownd.</p>
+            <p>Thoſe who aſſaulted the foreſaid <hi>Ravelin</hi> ſeated by the wa<g ref="char:EOLhyphen"/>ter-conveyances were manfully repulſed, but reſolutely re<g ref="char:EOLhyphen"/>newed their aſſault again; and after they had cut down ſome of the Paliſadoes, they ruſhed through them ſuriouſly, and en<g ref="char:EOLhyphen"/>deavoured to ſcale the Walls, with their ſtorming Ladders, but were at puſh a Pike reſolutely received and entertained by our men, who valiantly reſiſting them, beate them off a<g ref="char:EOLhyphen"/>gain and drove them back; and finally after a hot and ſharp conteſt, for the ſpace of three houres, during which time the Enemy had maintained the ſaid Ravelin, they beat them out again, many being kil'd and wounded in that Conteſt.</p>
+            <p>In like manner, our men which were in the half Bulwork
+<pb n="5" facs="tcp:37218:4"/>on the adjacent Curtaine, and in the Longang or private con<g ref="char:EOLhyphen"/>veyance by the Stables, as alſo on the Walls, and in the reſt of the Works on that ſide, behaved themſelves ſo manful<g ref="char:EOLhyphen"/>ly and couragiouſly, as that they continually repulſed the E<g ref="char:EOLhyphen"/>nemy on all ſides.</p>
+            <p>The King himſelf, together with the Senators of the King<g ref="char:EOLhyphen"/>dome, and the Gentry, were preſent at, and aſſiſted in the whole Action, as alſo the Officers belonging to the Kings Court, <hi>&amp;c.</hi> ſome others joyntly with the reſt of the Courti<g ref="char:EOLhyphen"/>ers were placed behind the Magazin or Ammunition Houſe, neare unto the Kings Stables, and in the Longang or Breſt<g ref="char:EOLhyphen"/>work, which they did manfully defend.</p>
+            <p>By his ſaid Majeſtie's preſence and moſt Heroicall reſoluti<g ref="char:EOLhyphen"/>on, who was not at all diſmayed, but continually applyed him<g ref="char:EOLhyphen"/>ſelf to all the places where the ſtorme and aſſault was the hotteſt and fierceſt, behaving himſelf moſt Magnanimouſly; encouraging his men, and deſtributing the neceſſary Orders which were requiſite, each one was the better animated and prompted to the duty.</p>
+            <p>And the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and conduct of the Generals, and Field-Officers which were in the place, was moſt apparently evi<g ref="char:EOLhyphen"/>dent in this occaſion, by their encouraging of each other; their dextrous aſſiſtance and joynt Actings, with ſo much fa<g ref="char:EOLhyphen"/>cility and reſolution againſt the Enemy, as that by Gods grace, he could not gain ground in the leaſt upon them, but was moſt manfull repulſt and forced to retreat.</p>
+            <p>In like manner the Burgemaſters, Aldermen, and the faithfull Citizens beſtirr'd themſelves mainly, behaved them<g ref="char:EOLhyphen"/>ſelves wonderfully well, and aſſiſted perſonally in this ſer<g ref="char:EOLhyphen"/>vice, being all of them well and fully reſolved to venture their lives, ſubſtances, goods and blood, in the defence of their Countrey, and the mainteinance of their gracious and lawful<g ref="char:EOLhyphen"/>ly ordained King.</p>
+            <p>The chief aſſault therefore was made on this ſaid ſtation, being carryed on by Major Generall <hi>Vavaſor;</hi> together with the <hi>Palſgraves,</hi> the <hi>Engliſh,</hi> and the <hi>Hestericks</hi> Brigades, as al<g ref="char:EOLhyphen"/>ſo Major Generall <hi>Ferſſers,</hi> and Collonell <hi>Gorgoſe's:</hi> who en<g ref="char:EOLhyphen"/>deavoured to comply with their Orders, and to go through
+<pb n="6" facs="tcp:37218:5"/>with their taske with a great deale of reſolution.</p>
+            <p>The King of <hi>Sweden</hi> himſelf was at the head of his Reſerve, not far from the aſſault, however out of Canon ſhot, our great Guns and Muskets continually thundred in amongſt the Ene<g ref="char:EOLhyphen"/>mies Troopes, who laboured in all parts to throw over his new invented flat bottom'd Boates and Bridges upon the frozen Moates, which taking effect in ſeverall ſtations, they immediately made uſe of their ſtorming Ladders to ſcale the Works, chiefly at the point of the Bulwork, or round Houſe ſeated neare the Water convayance, which was very well fortified with Palezadoes, Turnpikes, and Swines feathers, but thoſe who endeavoured to ſcale the ſaid Works, were for the moſt part kil'd and wounded, and the Aſſailants, who for three ſeverall times were relieved and came freſh on again, were ſo well received, as that they had no mind to make any long ſtay there, but were totally repulſt and driven away.</p>
+            <p>Some few had the good luck to get upon the Walls, but were likewiſe ſo unfortunate again, as that they forgot to pro<g ref="char:EOLhyphen"/>ceed, and will not be well able to tell how they came on or off.</p>
+            <p>Finally, The inſulting Enemy was conſtrained by the day light (ſince the darkneſs would no longer ſerve his turn, to cloake and hide his enterprizes,) to retire in a great deale of confuſion towards their head-quarters; having ſuſtained a great loſſe, leaving behind him a great number of dead and wounded men, ſeverall Ice-Bridges, ſtorming Ladders, ſome Enſignes, Morter-pieces, and Petards; with divers new kind of Materials, Inſtruments, and warlike Engines; after the ſtorme and aſſault, which was fierce and bloody, had laſted for the ſpace of four hours.</p>
+            <p>In like manner the Enemy did preſent himſelf before <hi>Chri<g ref="char:EOLhyphen"/>ſtians Haven,</hi> advancing over the Ice towards the <hi>Hollanders</hi> ſtation, ſituated between the Iſle of <hi>Amach,</hi> and the Ammuni<g ref="char:EOLhyphen"/>on-houſe, called the Scharport; but were thence alſo repulſt with bloody pates, and a great loſs, both of dead men, and Pri<g ref="char:EOLhyphen"/>ſoners which were taken.</p>
+            <p>Before the Enemy made this main aſſault, they gave a falſe Alarum at <hi>Chriſtians Haven,</hi> beating their Drumms, and ma<g ref="char:EOLhyphen"/>king
+<pb n="7" facs="tcp:37218:5"/>a ſhew to have fallen on there with a great ſhout, pur<g ref="char:EOLhyphen"/>poſely to deceive us, and to cauſe us to ſend ſome relief thither, and ſo to have weakned our ſtations in <hi>Coppenhaghen:</hi> They advanced as far as the frozen Moates, but found the Ice wider open then they had imagined, ſo that the for moſt of them fell in and were drowned; and when the day appeared there were Hatts, Perewiggs and Muffs found ſwimming on the water; alſo on the Ice, and up and down on the Land, ſeveral Bodies were found; the remainder of them, were by the Enemy conveyed off according to his uſuall cuſtome, every Trooper and Muskiteer being enforced to carried away his dead or wounded companion, and to caſt them upon the Waggons and Sledges.</p>
+            <p>About half an hour paſt four of the clock in the morning a third party of the Enemies, commanded by the Lieutenant Generall, the Earl <hi>Guſtavus Banner,</hi> and led on by Lieutenant Collonels <hi>Lentſman, Fittinghoff, Stael</hi> and others, appeared with the diſmounted Poliſh Horſe, and other Troops, on the other ſide of the City of <hi>Copenhaghen,</hi> over againſt the Eaſtern gate, and the two adjacent Bulwarks, called the Mill and mid<g ref="char:EOLhyphen"/>dle Bulwarks; in which place the <hi>Holland</hi> Souldiers and Of<g ref="char:EOLhyphen"/>ficers had likewiſe their ſtations; who ſuffered the Enemy to come ſo nigh the Ravelin, as that they ſo hoamly greeted them with their Muskets (whileſt they were buſied in order<g ref="char:EOLhyphen"/>ing their materials, and laying their bridges over the moat) as that ſeverall of them will never think of returning back; and the remainder were finally enforced to retire in a great deal of confuſion.</p>
+            <p>As the Enemy thought to have brought on his flat bottomd Boats to that part of the works, the firſt of them ſlipt under the Ice with its fore part, and with its hinder part reared an end, ſo that they could make but little uſe thereof: however four perſons who had joyntly caſt their ſcaling Ladders over the Ice, got up upon the walls, who had quarter given them by the <hi>Hollanders:</hi> In this place the <hi>Swedes</hi> were enforced to leave divers of their new invented Ice-bridges, ſtorming Ladders, and other Inſtruments behind them; running away and leaving ſeverall of their dead and wounded Men; amongſt
+<pb n="8" facs="tcp:37218:6"/>which divers healthy men had hid themſelves, who after<g ref="char:EOLhyphen"/>wards kneeling with lift up hands, demanded quarter, which was granted to them; inſomuch as that a great number of Priſoners were brought in, at this, as well as the other ſtations: amongſt which were divers Majors, Captaines of Horſe, and other Officers, ſome of which died of their wounds.</p>
+            <p>The Lord Admirall of the united States, the Barron of <hi>Waſſender,</hi> was in perſon at the head of a conſiderable Reſerve at the Eaſtern Gate, having ſeverall brave and reſolute Sta<g ref="char:EOLhyphen"/>men in his company.</p>
+            <p>According unto the information of the Priſoners, the King of <hi>Sweden</hi> had encouraged the Troopers (who were other<g ref="char:EOLhyphen"/>wiſe unwilling to be diſmounted, and to ſerve on foot in the aſſault) with his Promiſe, to ſuffer them, <hi>to have the Plun<g ref="char:EOLhyphen"/>dering of the City for three daies ſpace, and to deale with the Wo<g ref="char:EOLhyphen"/>men, as they themſelves ſhould pleaſe.</hi> An exact Liſt is a preparing, of the Names of all the Officers who commanded and fought on both ſides, as alſo of thoſe which were kil'd wounded and taken on the Enemies behalf; for on our part, although it be ſcarce credible, there is not ſo much as an Officer, or a Ci<g ref="char:EOLhyphen"/>tizen miſſing, and not above eight or ten Souldiers kil'd, There were two or three Citizens wounded, particularly two Gentlemen named <hi>Roſecrants,</hi> and <hi>Rotſtein;</hi> the firſt of which died on the place, and the other is dangerouſly hurt.</p>
+            <p>Meane while on the Enemies part, theſe enſuing Generall Perſons and Officers in chiefe were ſlain, foraſmuch as we can be aſſured of as yet:</p>
+            <list>
+               <item>The Generall of the <hi>Artilery,</hi> the Earle of <hi>Steinboch.</hi>
+               </item>
+               <item>St. <hi>William Vavaſor,</hi> Major Ge<g ref="char:EOLhyphen"/>nerall.</item>
+               <item>Major Generall <hi>Aſchenberg.</hi>
+               </item>
+               <item>Count <hi>Lodowick Lourven Ceupt,</hi> Lieutenant Collonell.</item>
+               <item>Count <hi>Jacob Drommondt,</hi> Lieu<g ref="char:EOLhyphen"/>tenant Collonell.</item>
+               <item>Collonell <hi>Gengell.</hi>
+               </item>
+               <item>Collonell <hi>Staell.</hi>
+               </item>
+               <item>Collonell <hi>Steinhoff.</hi>
+               </item>
+               <item>Collonell <hi>Scharneſtsky.</hi>
+               </item>
+               <item>Collonell <hi>Hesterich.</hi>
+               </item>
+               <item>Collonell <hi>Sparr.</hi>
+               </item>
+               <item>Collonell <hi>Becker.</hi>/</item>
+               <item>Collonell <hi>Berenclaw.</hi>
+               </item>
+               <item>Collonell Adjatant Generall <hi>Lavoyette.</hi>
+               </item>
+               <item>Collonell <hi>Lentzman.</hi>
+               </item>
+               <item>
+                  <pb n="9" facs="tcp:37218:6"/>
+Lieut. Col. <hi>Wrangell.</hi>
+               </item>
+               <item>Lieut. Col. <hi>Kittinghoven.</hi>
+               </item>
+               <item>Major <hi>Schmidt.</hi>
+               </item>
+               <item>Capt. <hi>John Frederick,</hi> of Horſe.</item>
+               <item>Capt. <hi>Neewhugs,</hi> of Horſe.</item>
+               <item>Capt. <hi>Weſterhagen,</hi> of Horſe.</item>
+               <item>Capt. <hi>Vandervoſten,</hi> of Horſe.</item>
+               <item>Cap. <hi>Ugla,</hi> of Foot.</item>
+               <item>In all 120. Inferiour Offi<g ref="char:EOLhyphen"/>cers, and 60. Officers in Chief.</item>
+            </list>
+            <p>There was found an Officer in Chief of the <hi>Swedes,</hi> drown<g ref="char:EOLhyphen"/>ed under the Ice behinde the <hi>Daniſh</hi> Man of Warre, whoſe Name is as yet unknown; beſides the ſlain and wounded men which they carried off upon their ſtorming Ladders and Waggons, wherewith they brought their Materials and Ice-Bridges.</p>
+            <p>Moreover the Countrey People did bury three Waggons full of dead Men, in a Pit neare unto the place of execution called the <hi>Galghenberg,</hi> which they were to have carryed to the Camp; and over and above thoſe which were drowned, there hath already been found 566. dead Corps; although there muſt needs be many more, ſince they are not as yet all found, and that the Enemy hath carried ſeverall away.</p>
+            <p>Threeſcore and two Priſoners were brought into the City; not is it known how many more may have hid themſelves up and down about the Works; ſome Troopers which came over to us out of the <hi>Swedes</hi> Camp, relate, that it is reported in the Army, that they had loſt three Generals, eight Col<g ref="char:EOLhyphen"/>lonels, twelve Lieutenant Collonels, beſides ſeverall o<g ref="char:EOLhyphen"/>ther Officers, and at leaſt 3000. private Souldiers, but the <hi>Swedes</hi> themſelves only ſpeak of 2000.</p>
+            <p>The <hi>Swedes</hi> their Word was, <hi>God help us;</hi> and the beſieg<g ref="char:EOLhyphen"/>ed their Word was <hi>Honeſt:</hi> the <hi>Swedes</hi> diſtinction which they wore in their hats, was a green buſh of Juniper tied with a ſtraw: ours wore a white hankerchief in their hats: the greateſt part of the Enemy, had white ſhirts over their cloathes, to the end they ſhould not be diſcovered in the Snow.</p>
+            <p>Our men have lighted upon good booty, as rich Cloathes, Rings, coyned Gold and Silver, Chains of gold, whole pur<g ref="char:EOLhyphen"/>ſes full of Gold, and other ſuch like things which they found about the dead: Amongſt which, is the Seal of Count <hi>Drom<g ref="char:EOLhyphen"/>mond,</hi>
+               <pb n="10" facs="tcp:37218:7"/>and the Seal and gold Ring with Collonel <hi>Charles Banners</hi> Coat of Arms, whereby its preſumed that he is alſo ſlain.</p>
+            <p>
+               <hi>This glorious Victory is the Lords work, to whom eternall praiſe be given for the ſame:</hi> and for the which, on the 11th of <hi>Fe<g ref="char:EOLhyphen"/>bruary,</hi> publick Thankſgivings were returned to God in all the Churches of this City; and it was very pleaſing to heare the reſerve of our men which were drawn up in the great place before the Kings Court, when day appeared and that the Enemy was defeated and put to flight, did ſing aloud ſeverall Pſalms of Thankſgiving in way of rejoy<g ref="char:EOLhyphen"/>cing.</p>
+            <p>It is very obſervable, That of ſo many Granadoes, which the Enemy during the aſſault, did fling in abundance upon and towards the Walls, there was no hurt at all done; the greateſt part of them rebounding back again, endammaged the Eenemy themſelves; ſo likewiſe did the <hi>Danes</hi> play main<g ref="char:EOLhyphen"/>ly upon the Enemy with ſmall and great Granadoes; and from the Bulwork by the Water Conveyance there were 300. hand Granadoes caſt forth.</p>
+            <p>The winde being <hi>North Eaſt,</hi> was by Gods appointment ve<g ref="char:EOLhyphen"/>ry favourable for the <hi>Danes,</hi> ſo that the greateſt part of the ſmoake cauſed by the firing on both ſides, as well as from the Works and Walls, was driven directly into the Enemies faces.</p>
+            <p>And the Enemy, by Gods aſſiſtance, being in this manner manfully repulſt on all ſides, was conſtrained as ſuddenly to retreat as he at firſt did furiouſly fall on, having a good con<g ref="char:EOLhyphen"/>duct of Shot and Haile ſent after him from all parts.</p>
+            <p>On the ſame day; to wit, the eleventh of <hi>February,</hi> in the Afternoon, a <hi>Swediſh</hi> Trumpeter was ſent into <hi>Copen<g ref="char:EOLhyphen"/>haghen,</hi> deſiring that the dead bodies of Major Generall <hi>Vava<g ref="char:EOLhyphen"/>ſor,</hi> and of Collonell <hi>Gangell,</hi> might be delivered unto him, which was granted; and in reference thereunto, theſe follow<g ref="char:EOLhyphen"/>ing dead Corps newly found, and being decently adorned and wrapt up in burying cloathes, were delivered to the ſaid Trumpeter, <hi>viz.</hi>
+            </p>
+            <list>
+               <pb n="11" facs="tcp:37218:7"/>
+               <item>Major General Sir <hi>William Vavaſor.</hi>
+               </item>
+               <item>Collonel <hi>Gangell.</hi>
+               </item>
+               <item>Lieutenant Collonel Count <hi>Drommondt.</hi>
+               </item>
+               <item>Lieutenant Collonel <hi>Kitting<g ref="char:EOLhyphen"/>hoven.</hi>
+               </item>
+               <item>Lieutenant Collonel <hi>Leutz<g ref="char:EOLhyphen"/>man.</hi>
+               </item>
+               <item>Lieutenant Collonel <hi>Stake.</hi>
+               </item>
+               <item>Major <hi>Schmidt.</hi>
+               </item>
+               <item>Captain <hi>Auguſtin</hi> of Horſe.</item>
+               <item>Captain <hi>Weſterhagen</hi> of Horſe.</item>
+               <item>Captain <hi>Neewhaus</hi> of Horſe.</item>
+               <item>Captain <hi>
+                     <g ref="char:V">Ʋ</g>gla</hi> of Foot.</item>
+            </list>
+            <p>Three Cart-loades of Scaling Ladders, which ſtood be<g ref="char:EOLhyphen"/>twixt a Chimney and the Ravelin before the Eaſtern Gate, were brought into the City by the <hi>Holland</hi> Souldiers, which went out for booty; beſides a great quantity of Bridges, flat-bottom'd Boates, and other warlike Inſtruments; ſeveral of which the King hath cauſed to be preſerved for a Remem<g ref="char:EOLhyphen"/>brance.</p>
+            <p>Moreover, there are taken ſix Enſignes, or Colours, twelve Drummes, two Morter-pieces, and one great Petard; where<g ref="char:EOLhyphen"/>withall they thought to have opened the Longang, or Line of Communication, as alſo another Petard; ſeveral great and ſmall Granadoes and Shels filled with Powder and Bullets, ſeveral Pikes and Sutes of Arms; as alſo divers new faſhion<g ref="char:EOLhyphen"/>ed and invented Muſquets; made in ſuch a manner, as that they carried a ſmall Copper Granadoe, in which there were ſeveral reportitions, being boared through with a ſharp Iron, which was hooked at the end, purpoſely to remain hanging in a mans cloathes, and ſo to hurt not only one perſon, but the ſeveral ſtanders by: but theſe being ſhot over the Walls, did little or no harm at all, although the Inventer of the ſame, had a great reward from the King of <hi>Sweden.</hi>
+            </p>
+            <p>Finally, Some Runawayes, which came lately over from the Swediſh Camp, do relate, That ſix hundred of the hurt and maimed men, were ſent away to <hi>Rotſchilt,</hi> four hundred to <hi>Roeck,</hi> and two hundred unto <hi>Elſenheur,</hi> ſince there was no conveniency for them in the Camp.</p>
+            <p>There was found about the Lieutenant Collonel <hi>Fittinghoff,</hi> (who was ſlain on the place before the aforeſaid Eaſtern Bulwork) the enſuing Order in writing, under the
+<pb n="12" facs="tcp:37218:8"/>King of <hi>Sweden</hi>'s own Seal and Signature, as followeth.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>Charles Guſtave,</hi> by the Grace of God, King of <hi>Sweden, Gothes</hi> and <hi>Vandalls,</hi> &amp;c.</signed>
+                  </opener>
+                  <p>It is his Majeſties gracious Order, to both the Lieutenant Collonels <hi>Lentſman,</hi> and <hi>Tythinghoff;</hi> That they, (as ſoon as Lieutenant Collonel <hi>Stael,</hi> with his commanded men, ſhall be advanced alongſt the Ravelin, on the left hand, towards the Bulwork of the Citadell) ſhall with their commanded Troopers, and the Materials which they have with them, (leaving the ſaid Ravelin on their left hand, and paſſing on the right) aſſault the long face of the half Bulwork; and moreover, endeavour to apply their Materials thereunto, to maſter the ſaid Bulwork, to chaſe the Enemy out of the ſame, and to keep and maintain their ſtands there, untill they ſhall receive further Orders; and in caſe they happen to be once or twice repuls't, they ſhall notwithſtanding, not give over till they have maſtered the ſame: and in the mean while, ſend ſpeedy word to Generall <hi>Banner,</hi> in what a po<g ref="char:EOLhyphen"/>ſture they find the Enemy to be: Where in his Majeſty rely<g ref="char:EOLhyphen"/>ing upon the courage and good conduct of both the ſaid Lieu<g ref="char:EOLhyphen"/>tenant Collonels, and their inferiour Officers, doth remain confident, continuing them in his Kingly gracious and good opinion.</p>
+                  <closer>
+                     <dateline>In teſtimony whereof, given under his Majeſties own Hand and Seal in the Camp by <hi>Bromſou,</hi> 
+                        <date>on the 8th of <hi>Febr.</hi> 1659.</date>
+                     </dateline>
+                     <signed>Subſcribed thus, <hi>Carel Guſtaf.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>With a Seal, directed thus, <hi>Order for the Lieutenant Collonels,</hi> Lentſman <hi>and</hi> Tyringhoff.</trailer>
+                  <closer>
+                     <signed>Signed, <hi>Frans Ivel.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="13" facs="tcp:37218:8"/>
+About another, who who was found dead by a certain Chimney, before the Eaſtern Gate, and who for certain, is known to be Major Generall <hi>Vavaſor,</hi> having been ſhot through the back, there was likewiſe found another Swediſh Kingly Order, of the Tennor following.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <signed>
+                        <hi>Charles Guſtave,</hi> by the Grace of God, King of <hi>Sweden, Goths,</hi> and <hi>Vandalls,</hi> &amp;c.</signed>
+                  </opener>
+                  <p>It is his Majeſties gracious Order to Major General <hi>Vava<g ref="char:EOLhyphen"/>ſor;</hi> That as ſoon as Major Generall <hi>Ferſſen,</hi> with his joynt Brigades, ſhall be advanced towards thoſe parts which are ordered him: He ſhall likewiſe match on towards the Bul<g ref="char:EOLhyphen"/>work, with the <hi>Palſgraves,</hi> the <hi>Heſtericks,</hi> and the <hi>Engliſh</hi> Brigades; in ſuch a manner, as that the <hi>Palſgraves</hi> ſhall apply their Materials againſt the Works upon the right hand, towards <hi>Amach,</hi> and the <hi>Heſterick</hi> joyntly with the <hi>Engliſh,</hi> on the left hand, on the Works towards the crooked Line, and ſhall uſe their beſt endeavours to aſſault and maſter the ſaid Bulwork; and having gained the ſame, to take their Stations there on both ſides of the ſame, and there to joyn; to wit on the right hand, with the Generall of the Ordnance <hi>Sternbock,</hi> and with Collonel <hi>Lavoyette,</hi> and on the left hand with Collonel <hi>Gorgos:</hi> and in caſe the Captain with the 50 commanded men, or Collonel <hi>Gorgos,</hi> who are ordered to maſter the crooked Line on their right hand, ſhall not have performed the ſame; he the ſaid Major Generall <hi>Vavaſor,</hi> ſhall as then open the ſaid crooked Line on the left ſide, with thoſe Petards which he hath with him, ſhall drive the Ene<g ref="char:EOLhyphen"/>my out of the ſame, ſhall nayl up the Gunnes which he ſhall finde therein, and ſo joyn himſelf to the Brigade on the left hand; and mean while ſhall give notice unto his ſaid Ma<g ref="char:EOLhyphen"/>jeſty, in what a poſture he doth finde the Enemy in: which being put in execution, the ſaid King doth remit himſelf to the good courage, conduct and prudence of the ſaid Major Generall; and remains, committing him to Gods prote<g ref="char:EOLhyphen"/>ction, continuing him in his gracious good opinion: In te<g ref="char:EOLhyphen"/>ſtimony whereof, </p>
+                  <closer>
+                     <dateline>Given under his Majeſties Seal and Signa<g ref="char:EOLhyphen"/>ture
+<pb n="14" facs="tcp:37218:9"/>in the Camp before <hi>Bromſou,</hi> 
+                        <date>on the 8th of <hi>Febr.</hi> 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </date>
+                     </dateline> 
+                     <signed>Subſcribed thus, <hi>Carel. Guſtaf.</hi>
+                     </signed>
+                  </closer>
+                  <trailer>Directed thus, <hi>The Order for Major Generall</hi> Vavaſor.</trailer>
+                  <closer>
+                     <signed>Signed, <hi>Franſ. Sael.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>Extract out of other Letters from</hi> Coppenhaghen, <hi>bearing date the</hi> 21th <hi>Febr.</hi> 1659.</head>
+                  <p>Since we have had a thaw in theſe parts, there have been found above a Thouſand dead bodies in all, with thoſe which we afore ſpecified, in and about the Works of this City in the Ice and Snow.</p>
+                  <p>As likewiſe we have received a Confirmation of the defeat given to Generall <hi>Wrangell,</hi> in an Aſſault which he made on the Iſle of <hi>Langland;</hi> where he loſt 500 men, beſides the Earl of <hi>Waldeeck,</hi> and Collonel <hi>Putcamer,</hi> who were ſlain in the ſaid attemp.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37218:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
